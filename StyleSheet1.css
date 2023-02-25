@@ -1,0 +1,38 @@
+﻿body {
+    background: url(https://c4.wallpaperflare.com/wallpaper/599/689/236/machine-dwayne-johnson-the-rock-workout-wallpaper-preview.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.g {
+    font-size: 50px;
+}
+
+.e {
+    font-size: 50px;
+}
+
+.but {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: #ffdb00;
+    border-radius: 10px;
+}
+
+.y {
+    font-size: 30px;
+}
+
+.hu {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: forestgreen;
+    border-radius: 10px;
+}
+
